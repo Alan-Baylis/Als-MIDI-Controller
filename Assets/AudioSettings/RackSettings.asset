@@ -1,0 +1,465 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f2c688f5cc3f38498677dc66839f003, type: 3}
+  m_Name: RackSettings
+  m_EditorClassIdentifier: Assembly-CSharp::AudioSourceSettings
+  sampleRate: 44100
+  generatedClipLengthSeconds: 2
+  sources:
+  - sourceName: Audio 11
+    audioClip: {fileID: 8300000, guid: d0d1b1490fc27e54c9cfaa5fe684744a, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 1
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 12
+    audioClip: {fileID: 8300000, guid: 56539cf557f1d93489a924f31d08c48d, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 13
+    audioClip: {fileID: 8300000, guid: dbc5b705e33854c46a33617f72c41768, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 14
+    audioClip: {fileID: 8300000, guid: 29bda717230398044b06bc668ee81eba, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 15
+    audioClip: {fileID: 8300000, guid: 9e52a3e611822384ab48a057e531abf5, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 16
+    audioClip: {fileID: 8300000, guid: e6b221e13bd9a264d98bd2b07032b525, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 17
+    audioClip: {fileID: 8300000, guid: 1a2ea932f69317c4083f66dae910bf5b, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 18
+    audioClip: {fileID: 8300000, guid: a363456fa1df10c4b8d06c5b93ac3d66, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 21
+    audioClip: {fileID: 8300000, guid: 2a0c5538cd03955428507b9c9d65ae0f, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 22
+    audioClip: {fileID: 8300000, guid: 40f51e5dda87c8640a217d15e92bbf29, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 23
+    audioClip: {fileID: 8300000, guid: e9cac1346a61da54e97f3e0d04663351, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 24
+    audioClip: {fileID: 8300000, guid: 1a31230b2d2e05848949121886ed2bcf, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 25
+    audioClip: {fileID: 8300000, guid: 948ad8554f1f20348ab196296421790f, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 26
+    audioClip: {fileID: 8300000, guid: db724499a9fbabc4fbbd2014bd8d097d, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 27
+    audioClip: {fileID: 8300000, guid: 5530c880c87e8074faba17c97fb7f703, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 28
+    audioClip: {fileID: 8300000, guid: 34d0283b5bf27e641a352f5a8a6c3a3c, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 31
+    audioClip: {fileID: 8300000, guid: 8330805f46497bf49a515343696678c4, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 32
+    audioClip: {fileID: 8300000, guid: 32d58c79defb0284895a25766d019643, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 33
+    audioClip: {fileID: 8300000, guid: 260a6971fdc623b44bb6195041ce4391, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 34
+    audioClip: {fileID: 8300000, guid: d63d697c5156af045a66c27a80409ccd, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 35
+    audioClip: {fileID: 8300000, guid: de34c9d361bd2cc41a321c5f6b5a93eb, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 36
+    audioClip: {fileID: 8300000, guid: ed5cd755cf1e96b48a0c145e660344c7, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 37
+    audioClip: {fileID: 8300000, guid: 7d5c117e1f76cea4a8b11d802cecee6a, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 38
+    audioClip: {fileID: 8300000, guid: 062c159ee415c524caae356ff26331b2, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 41
+    audioClip: {fileID: 8300000, guid: 6183e384c1e4fd141b037eeed26b91de, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 42
+    audioClip: {fileID: 8300000, guid: 373c8736242f2444e8c3d8b2612c9c92, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 43
+    audioClip: {fileID: 8300000, guid: 775810a8200706a479bf48645eac4b58, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 44
+    audioClip: {fileID: 8300000, guid: b3b455c8ce774e646b53746e5ac7da33, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 45
+    audioClip: {fileID: 8300000, guid: 708ad6d9f2df4b24f83e1956acb6a9f3, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 46
+    audioClip: {fileID: 8300000, guid: 747fa61a40fc5eb4eb68e070389be49c, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 47
+    audioClip: {fileID: 8300000, guid: 5bd5f22404510ac4b9b1a741d5973f56, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 48
+    audioClip: {fileID: 8300000, guid: a9585dd118ca788498ff4d70b26284ef, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 51
+    audioClip: {fileID: 8300000, guid: 89357927ee154b04f8168830025353c5, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 52
+    audioClip: {fileID: 8300000, guid: 1a83c1405690cc84880f2f372fecabcb, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 53
+    audioClip: {fileID: 8300000, guid: c7d7b9a14bc8cca4ab676e14d542cce6, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 54
+    audioClip: {fileID: 8300000, guid: 521a2d13bb6d4264da2419a927ba3615, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 55
+    audioClip: {fileID: 8300000, guid: ac38b046713c4414eae15f2f6de70f8e, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 56
+    audioClip: {fileID: 8300000, guid: 4950872ee60eae44e8486a95b3c52ceb, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 57
+    audioClip: {fileID: 8300000, guid: 585f1650fee0ae24480b6033e3ae6afa, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 58
+    audioClip: {fileID: 8300000, guid: b5646567dd67f6d4f9ec53e3544741f8, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 61
+    audioClip: {fileID: 8300000, guid: 25703940f52d8ef4fa2445d967114632, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 62
+    audioClip: {fileID: 8300000, guid: 7c66e2b79b43f244ca70666263c370f9, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 63
+    audioClip: {fileID: 8300000, guid: 95460f31e03657a4492345449558b2e2, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 64
+    audioClip: {fileID: 8300000, guid: 593ca88b5b7878744966f2784225845c, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 65
+    audioClip: {fileID: 8300000, guid: 6210b802f06d3ab4db97e4d8fb85a498, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 66
+    audioClip: {fileID: 8300000, guid: ba2b8665239582e4f9b293ddf01f7c0a, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 67
+    audioClip: {fileID: 8300000, guid: 7c135b26905b8064a838ac18c0b9b026, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 68
+    audioClip: {fileID: 8300000, guid: 4daa847fc53016a49a3bf8b5658c1931, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 71
+    audioClip: {fileID: 8300000, guid: 8f72a0cd19c461c499d42bf3f6c1177f, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 72
+    audioClip: {fileID: 8300000, guid: a69220225f80c5b44b4cd161cd6b9bf7, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 73
+    audioClip: {fileID: 8300000, guid: eef193d5917b6ec44bf107e5f77288e7, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 74
+    audioClip: {fileID: 8300000, guid: 722b6b4ace7eb6448a997a3079a4859b, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 75
+    audioClip: {fileID: 8300000, guid: 1ad95b736bcf689458ca5409e7324ac0, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 76
+    audioClip: {fileID: 8300000, guid: 11924af797a183f48917e88308d3406f, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 77
+    audioClip: {fileID: 8300000, guid: 7c534400c5141224bbc02f4bdc37759f, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 78
+    audioClip: {fileID: 8300000, guid: 7dd4940dd88eb8c4d92faed85bc724c9, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 81
+    audioClip: {fileID: 8300000, guid: 339309b8e395d18458100dd145b81375, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 82
+    audioClip: {fileID: 8300000, guid: 1b510e8437a0e004880dffccc23fa7ad, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 83
+    audioClip: {fileID: 8300000, guid: d4d106b654ec7b4439233b1405eb1638, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 84
+    audioClip: {fileID: 8300000, guid: 9878eb4fa7f6c61438a8b5099c2b9990, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 85
+    audioClip: {fileID: 8300000, guid: 675402b17fdfa7c49b16a0b51400fb96, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 86
+    audioClip: {fileID: 8300000, guid: ff6929253a0b2a34b9c9a18798133765, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 87
+    audioClip: {fileID: 8300000, guid: ab0a069d0b8e5cb408c86184059143bc, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0
+  - sourceName: Audio 88
+    audioClip: {fileID: 8300000, guid: b612e6daeaf3b6a49b7714658d1c7e7a, type: 3}
+    playOnStart: 0
+    loop: 0
+    volume: 0
+    spatialBlend: 0
+    frequency: 0

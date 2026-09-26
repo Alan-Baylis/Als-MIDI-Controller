@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60bcff657b89cd841a81407cb7e4b39e, type: 3}
+  m_Name: PadPalette
+  m_EditorClassIdentifier: Assembly-CSharp::LaunchpadStudio.PadPaletteAsset
+  empty: {fileID: 11400000, guid: 31b306a6b7ce2744eb00c4cadbb2574f, type: 2}
+  hasClip: {fileID: 11400000, guid: 3d858787f05b8904db89a45b82136163, type: 2}
+  loaded: {fileID: 11400000, guid: c37e8357ea9bf874195a3988f8ef9bcc, type: 2}
+  editing: {fileID: 11400000, guid: 93fbc0eb4da5b0a4f96906ddbed02473, type: 2}
+  loading: {fileID: 11400000, guid: 8952768f05866f0468e283825e9938ea, type: 2}
+  missing: {fileID: 11400000, guid: 73717ff5d0aa90e4da14d5f482cd12cc, type: 2}
+  flash: {fileID: 11400000, guid: 8b897f595d3227343b430c352fad3c69, type: 2}

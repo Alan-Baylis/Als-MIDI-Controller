@@ -1,0 +1,15 @@
+* text=auto
+
+*.png  binary
+*.jpg  binary
+*.psd  binary
+*.wav  binary
+*.ogg  binary
+*.mp3  binary
+*.aif  binary
+*.aiff binary
+*.ttf  binary
+*.otf  binary
+*.dll  binary
+*.exe  binary
+*.asset -text merge=unityyamlmerge

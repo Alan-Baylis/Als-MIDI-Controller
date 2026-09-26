@@ -1,0 +1,63 @@
+# ---------- Unity: generated, rebuilt automatically ----------
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+.utmp/
+
+# ---------- Builds: these go in Releases, not the repository ----------
+/[Bb]uild/
+/[Bb]uilds/
+*_BurstDebugInformation_DoNotShip/
+*_BackUpThisFolder_ButDontShipItWithYourGame/
+*.apk
+*.aab
+*.app
+
+# ---------- IDE files (Rider, Visual Studio) ----------
+.idea/
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pdb.meta
+*.mdb.meta
+/[Aa]ssets/Plugins/Editor/JetBrains*
+
+# ---------- Unity crash and system files ----------
+sysinfo.txt
+mono_crash.*
+crashlytics-build.properties
+*.unitypackage
+*.unitypackage.meta
+*.log
+
+# ---------- Al's MIDI Controller: personal / runtime files ----------
+/session.json
+/session.json.*
+*.bak
+*.tmp
+*.zip
+
+# Your own test layouts. Delete this line if you want to ship starter kits.
+/[Ll]ayouts/
+
+# Uncomment if your samples are not yours to share, or are too large:
+# /[Ss]amples/
+
+# ---------- Windows ----------
+Thumbs.db
+desktop.ini
+
+# Keep .meta files for everything that IS uploaded
+!/[Aa]ssets/**/*.meta

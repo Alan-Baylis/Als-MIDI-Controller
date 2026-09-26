@@ -161,7 +161,7 @@ unsaved changes, you'll be asked first.
 ## Building from source
 
 - **Unity 6000.4.1f1** (Unity 6.4), URP, TextMeshPro
-- Open the project folder in Unity Hub, open the scene **MIDI Controller**, then
+- Open the project folder in Unity Hub, open the scene **Al's MIDI Controller**, then
   **File → Build Profiles → Windows → Build**.
 - A post-build step copies `Samples` next to the executable.
 - Design notes, architecture and conventions are in **[DESIGN.md](DESIGN.md)**.

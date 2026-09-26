@@ -13,6 +13,8 @@ colours and the current grid) is saved automatically when you quit.
 It was built for the musician with a folder of random samples and no sample pack, no
 DAW and no patience for a setup wizard.
 
+![Al's MIDI Controller](Images/Screenshot.png)
+
 ---
 
 ## Supported devices
@@ -67,6 +69,8 @@ you just want to **play your samples**.
     Cancel**.
 - **Small and focused.** One window, three pages, no manual.
 - **Free and open source** under the MIT licence.
+
+![Matrix Screensaver](Images/Screensaver.png)
 
 ---
 

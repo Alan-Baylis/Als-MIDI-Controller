@@ -49,8 +49,9 @@ crashlytics-build.properties
 *.tmp
 *.zip
 
-# Your own test layouts. Delete this line if you want to ship starter kits.
-/[Ll]ayouts/
+# Layouts: only the demo kit is published; personal test layouts stay local.
+/[Ll]ayouts/*
+!/[Ll]ayouts/Demo.layout.json
 
 # Uncomment if your samples are not yours to share, or are too large:
 # /[Ss]amples/

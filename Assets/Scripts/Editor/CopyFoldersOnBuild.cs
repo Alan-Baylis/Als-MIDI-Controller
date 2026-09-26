@@ -26,7 +26,7 @@ namespace LaunchpadStudio
         /// a layout stores its paths relative to the library root, so kits built on
         /// Samples load correctly in the build.
         /// </summary>
-        private static readonly string[] Folders = { "Samples" };
+        private static readonly string[] Folders = { "Samples", "Layouts" };
 
         public int callbackOrder => 0;
 

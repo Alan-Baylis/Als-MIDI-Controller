@@ -1,9 +1,7 @@
 # Al's MIDI Controller (Version 1.0)
 
 **A sample player for Novation Launchpads. Put a sample on a pad and play it — on
-screen, on the hardware, and in time with everything else.** 
-
-And it also works without a Launchpad! Simply use the mouse to click on the pads.
+screen, on the hardware, and in time with everything else.** And it also works without a Launchpad! Simply use the mouse to click on the pads.
  
 Al's MIDI Controller turns a Launchpad into a live sample player with no setup. The
 screen shows the same **8×8 grid of 64 pads** as the hardware. Load a **sample**
